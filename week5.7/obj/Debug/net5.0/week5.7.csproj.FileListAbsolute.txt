@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.exe
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.deps.json
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.runtimeconfig.json
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.runtimeconfig.dev.json
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.dll
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\ref\week5.7.dll
+C:\Users\user\source\repos\Week5.1\week5.7\bin\Debug\net5.0\week5.7.pdb
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.AssemblyInfo.cs
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.dll
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\ref\week5.7.dll
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.pdb
+C:\Users\user\source\repos\Week5.1\week5.7\obj\Debug\net5.0\week5.7.genruntimeconfig.cache
